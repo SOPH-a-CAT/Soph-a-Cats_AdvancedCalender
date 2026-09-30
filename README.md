@@ -1,5 +1,7 @@
 # Daydream — Soph-a-Cat's Advanced Calendar
 
+**[Open the calendar website](https://soph-a-cat.github.io/Soph-a-Cats_AdvancedCalender/)**
+
 A colorful monthly calendar built with plain HTML, CSS, and JavaScript. No frameworks or external libraries.
 
 ## Features
